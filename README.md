@@ -5,6 +5,10 @@ Example of transfer learning image classification
 
 The dataset (Coffee images) is available on Kaggle:
 
-https://www.kaggle.com/datasets/filhypedeeplearning/coffee-images
+https://www.kaggle.com/datasets/thekangaroofactory/coffee-images
 
-The python notebook implements Transfer Learning Image Classification using the Xception model.
+The python code implements Transfer Learning Image Classification using the Xception model.
+
+It's also available as a notebook on Kaggle:
+
+https://www.kaggle.com/code/thekangaroofactory/notebook049617bfbb
